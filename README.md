@@ -57,6 +57,8 @@ Airflow • PostgreSQL • Docker
 
 Git • GitHub • VSCode
 
+---
+
 ### 📈 Data Analysis
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
@@ -66,14 +68,22 @@ Git • GitHub • VSCode
 
 Pandas • NumPy • Jupyter
 
+---
+ 
 ## 📈 Gráfico de Contribuições
 
+---
+ 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elipeBP&theme=tokyonight"/>
 </p>
 
+---
+ 
 ## 📊 Atividade de desenvolvimento
 
+---
+ 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elipeBP&theme=tokyo-night"/>
 </p>
