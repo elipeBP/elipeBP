@@ -1,3 +1,5 @@
-# 👋 Olá, eu sou Felipe
+# 👋 Olá, seja bem vindo ao meu perfil 
 
-![Snake animation](https://github.com/elipeBP/elipeBP/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/elipeBP/elipeBP/output/github-contribution-grid-snake-dark.svg">
+</p>
