@@ -66,7 +66,4 @@ Git • GitHub • VSCode
 
 Pandas • NumPy • Jupyter
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=elipeBP&theme=tokyonight&hide_border=true"/>
-</p>
 
