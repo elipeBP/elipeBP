@@ -27,21 +27,44 @@
 <img src="https://raw.githubusercontent.com/elipeBP/elipeBP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
-
 ## 🚀 Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,mysql,docker,vscode,tensorflow,pytorch,pandas,numpy" />
+### 🧠 Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
 </p>
 
+Python • PyTorch • TensorFlow • YOLO
 
-## 📊 Estatísticas
+---
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elipeBP&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elipeBP&layout=compact&theme=tokyonight"/>
+### 📊 Data Engineering
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker" />
 </p>
+
+Airflow • PostgreSQL • Docker
+
+---
+
+### ⚙️ Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+Git • GitHub • VSCode
+
+### 📈 Data Analysis
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+</p>
+
+Pandas • NumPy • Jupyter
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=elipeBP&theme=tokyonight&hide_border=true"/>
