@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-💼 LinkedIn: www.linkedin.com/in/felipebenitespadilha
+💼 [![linkedin]( https://www.linkedin.com/in/felipebenitespadilha/)
 📧 Email: felipepadilha6037@gmail.com
 
 <p align="center">
