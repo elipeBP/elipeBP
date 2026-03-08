@@ -76,3 +76,8 @@ Pandas • NumPy • Jupyter
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elipeBP&theme=tokyo-night"/>
 </p>
 
+## 📊 Atividade de desenvolvimento
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elipeBP&theme=tokyo-night"/>
+</p>
