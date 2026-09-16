@@ -80,13 +80,3 @@ Pandas • NumPy • Jupyter
 
 ---
  
-## 📊 Atividade de desenvolvimento
-
----
- 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elipeBP&theme=tokyo-night"/>
-</p>
-
-
-
